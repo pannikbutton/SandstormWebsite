@@ -1,2 +1,2 @@
-# sandstorm.cloud
+# SandstormWebsite
 The sandstorm website.
