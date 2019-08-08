@@ -1,2 +1,0 @@
-# SandstormWebsite
-The sandstorm website.
