@@ -1,0 +1,12 @@
+/* TEAM */
+
+	Developer:Alan van der Merwe
+	From:Southampton, United Kingdom
+
+
+/* THANKS */
+
+	Designer: aj
+	Twitter: @ajlkn
+	Web: html5up.net
+	From: Nashville, TN, USA
