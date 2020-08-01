@@ -1,0 +1,23 @@
+/* TEAM */
+
+	Developer:Alan van der Merwe
+	From:Southampton, United Kingdom
+
+
+/* THANKS */
+
+	Designer: aj
+	Twitter: @ajlkn
+	Web: html5up.net
+	From: Nashville, TN, USA
+
+	Photographer: Gmit
+	Pixabay: https://pixabay.com/users/gmit-10865089/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5035258
+
+	Photographer: Artem Sapegin
+	Unsplash: https://unsplash.com/@sapegin
+	From: Berlin, Germany
+
+	Photographer: You X Ventures
+	Unsplash: https://unsplash.com/@youxventures
+	From: Toronto, Ontario, Canada
